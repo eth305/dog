@@ -1,3 +1,14 @@
+# Interview Question
+
+run the dev server: `npm run dev`
+
+Using the api described here: https://dog.ceo/dog-api/
+
+Fetch a random image URL from the endpoint: https://dog.ceo/api/breeds/image/random
+
+Then render that image on the page. 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
