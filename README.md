@@ -1,6 +1,8 @@
 # Interview Question
 
-run the dev server: `npm run dev`
+run the dev server:
+- `npm install`
+- `npm run dev`
 
 Using the api described here: https://dog.ceo/dog-api/
 
